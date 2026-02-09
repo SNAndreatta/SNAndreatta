@@ -3,7 +3,7 @@
 Mi principal lenguaje de programación es **Python**.  
 Aprendí los principios de **SOLID**, **Arquitectura de Software**, **POO** y **TDD** con una réplica en **Pygame** de *Vampire Survivors* (el repositorio se llama **vampiro**).
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
 ---
 
@@ -22,13 +22,7 @@ También usé **Express** con **TypeScript**, pero no es el stack que prefiero.
 Tengo algo de experiencia en **frontend** con uso de frameworks de **React**, utilizando **Vite + React + TypeScript** como stack y **Tailwind** + **shadcn/ui** como reemplazo de CSS.  
 En algún momento aprendí lo básico de **HTML** y **CSS**, pero nunca los usé por sí solos.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>  
-<img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>   <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 
 ---
 

@@ -3,8 +3,7 @@
 Mi principal lenguaje de programación es **Python**.  
 Aprendí los principios de **SOLID**, **Arquitectura de Software**, **POO** y **TDD** con una réplica en **Pygame** de *Vampire Survivors* (el repositorio se llama **vampiro**).
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pygame/pygame-original.svg" width="40"/>
 
 ---
 
@@ -13,10 +12,7 @@ Aprendí los principios de **SOLID**, **Arquitectura de Software**, **POO** y **
 Hago principalmente **backend** con **FastAPI**; **Flask** y **Django** mucho menos, pero los usé.  
 También usé **Express** con **TypeScript**, pero no es el stack que prefiero.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 
 ---

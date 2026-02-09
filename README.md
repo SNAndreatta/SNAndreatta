@@ -13,19 +13,19 @@ Aprendí los principios de **SOLID**, **Arquitectura de Software**, **POO** y **
 Hago principalmente **backend** con **FastAPI**; **Flask** y **Django** mucho menos, pero los usé.  
 También usé **Express** con **TypeScript**, pero no es el stack que prefiero.
 
-Tengo algo de experiencia en **frontend** con uso de frameworks de **React**, utilizando **Vite + React + TypeScript** como stack y **Tailwind** + **shadcn/ui** como reemplazo de CSS.  
-En algún momento aprendí lo básico de **HTML** y **CSS**, pero nunca los usé por sí solos.
-
 Sé algo de **SQL** por haber usado **MySQL Workbench** para Bases de Datos en el secundario.  
 Manejo el uso de bases de datos a través de **ORMs** (por ejemplo, en Python: **SQLAlchemy**).  
 Uso principalmente **NeonDB** como proveedor (**PostgreSQL**).
 
 En **Aprendiendo Con Personajes** también aprendí un poco sobre tecnologías como **Docker**, **Kafka**, **MongoDB**, **MinIO**, **RVC**, entre otras menos relevantes, además del uso de **microservicios** como estructura del proyecto.
 
-En **Prode Master** terminé de aprender lo básico para el uso de **Docker** y **Docker Compose**, junto con **GitHub CI/CD**.
+En **Prode Master** terminé de aprender lo básico para el uso de **Docker** y **Docker Compose**, junto con **GitHub CI/CD**. También hice uso de **Valkey** para almacenar datos en memoria.
 
 En el colegio aprendimos conceptos sobre **concurrencia** y **desarrollo a bajo nivel** en **C++**.  
 El desarrollo de algunas de estas cosas se encuentra en la organización de GitHub **Programación Sobre Redes**.
+
+Tengo algo de experiencia en **frontend** con uso de frameworks de **React**, utilizando **Vite + React + TypeScript** como stack y **Tailwind** + **shadcn/ui** como reemplazo de CSS.  
+En algún momento aprendí lo básico de **HTML** y **CSS**, pero nunca los usé por sí solos.
 
 Hice junto a compañeros del colegio un juego corto en **GameMaker** llamado **Sorrow**.
 

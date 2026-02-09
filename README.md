@@ -30,7 +30,7 @@ Uso principalmente **NeonDB** como proveedor (**PostgreSQL**).
 
 En **Aprendiendo Con Personajes** también aprendí un poco sobre tecnologías como **Docker**, **Kafka**, **MongoDB**, **MinIO**, **RVC**, entre otras menos relevantes, además del uso de **microservicios** como estructura del proyecto.
 
-En **Prode Master** terminé de aprender lo básico para el uso de **Docker** y **Docker Compose**, junto con **GitHub CI/CD**, para la contenedorización de proyectos.
+En **Prode Master** terminé de aprender lo básico para el uso de **Docker** y **Docker Compose**, junto con **GitHub CI/CD**.
 
 ## Concurrencia y Bajo Nivel
 

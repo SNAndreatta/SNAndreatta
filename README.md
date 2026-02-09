@@ -21,7 +21,7 @@ Sé algo de **SQL** por haber usado **MySQL Workbench** para Bases de Datos en e
 Manejo el uso de bases de datos a través de **ORMs** (por ejemplo, en Python: **SQLAlchemy**).  
 Uso principalmente **NeonDB** como proveedor (**PostgreSQL**).
 
-En **Aprendiendo Con Personajes** también aprendí un poco sobre tecnologías como **Docker**, **Kafka**, **MongoDB**, **MinIO**, **RVC**, entre otras menos relevantes, además del uso de **microservicios** como estructura del proyecto.
+En **Aprendiendo Con Personajes** también aprendí un poco sobre tecnologías como **Docker**, **Kafka**, **MongoDB**, **MinIO**, **RVC**, entre otras menos relevantes, además del uso de **microservicios** como infraestructura del proyecto.
 
 En **Prode Master** terminé de aprender lo básico para el uso de **Docker** y **Docker Compose**, junto con **GitHub CI/CD**. También hice uso de **Valkey** para almacenar datos en memoria.
 

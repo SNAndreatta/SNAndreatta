@@ -1,3 +1,9 @@
+Además de los repositorios públicos en mi perfil, también hice aportes a los repositorios de las organizaciones vinculadas a mi perfil.
+
+## Formación
+
+A partir de **2026** comienzo a estudiar **Ciencias de la Computación** en la **UBA**. Terminé mis estudios secundarios en el Instituto Luis A. Huergo como Técnico Profesional en Computación.
+
 ## Perfil Técnico
 
 Mi principal lenguaje de programación es **Python**.  
@@ -10,8 +16,7 @@ Aprendí los principios de **SOLID**, **Arquitectura de Software**, **POO** y **
 Hago principalmente **backend** con **FastAPI**; **Flask** y **Django** mucho menos, pero los usé.  
 También usé **Express** con **TypeScript**, pero no es el stack que prefiero.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 
 ## Frontend
 
@@ -49,11 +54,8 @@ Hice junto a compañeros del colegio un juego corto en **GameMaker** llamado **S
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamemaker/gamemaker-original.svg" width="40"/>
 
-## Machine Learning y Formación
+## Machine Learning con Pytorch
 
 Actualmente estoy aprendiendo lo básico sobre **Machine Learning** y **Redes Neuronales** con **PyTorch**.  
-A partir de **2026** comienzo a estudiar **Ciencias de la Computación** en la **UBA**.
-
-Además de los repositorios públicos en mi perfil, también hice aportes a los repositorios de las organizaciones vinculadas a mi perfil.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>

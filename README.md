@@ -12,7 +12,7 @@ A partir de **2026** comienzo a estudiar **Ciencias de la Computación** en la *
 ## Perfil
 
 Mi principal lenguaje de programación es **Python**. 
-Hago principalmente **backend** con **FastAPI**; **Flask** y **Django** mucho menos, pero los usé.  
+Hago principalmente **backend**. Para APIs uso **FastAPI**; **Flask** y **Django** mucho menos, pero los usé.  
 También usé **Express** con **TypeScript** y **Nodejs**, pero no es el stack que prefiero.
 
 Aprendí los principios de **SOLID**, **Arquitectura de Software**, **POO** y **TDD** con una réplica en **Pygame** de *Vampire Survivors*.

@@ -23,7 +23,7 @@ Usé principalmente **NeonDB** como proveedor (**PostgreSQL**).
 
 En **Aprendiendo Con Personajes** también aprendí un poco sobre tecnologías como **Docker**, **Kafka**, **MongoDB**, **MinIO**, **RVC**, entre otras menos relevantes, además del uso de **microservicios** como infraestructura del proyecto.
 
-En **Prode Master** terminé de aprender lo básico para el uso de **Docker** y **Docker Compose**, junto con **GitHub CI/CD**. También hice uso de **Valkey** para almacenar datos en memoria.
+En **Prode Master** terminé de aprender lo básico para el uso de **Docker** y **Docker Compose**, junto con **GitHub Actions CI/CD**. También hice uso de **Valkey** para almacenar datos en memoria.
 
 En el colegio aprendimos conceptos de **concurrencia** y **desarrollo a bajo nivel** utilizando **C++**.  
 Trabajamos con manejo de **sockets** implementando un servidor **TCP** que ofrecía un sistema de salas, chat en tiempo real y un esquema de decisiones por turnos para un juego de ahorcado online.  

@@ -19,7 +19,7 @@ Aprendí los principios de **SOLID**, **Arquitectura de Software**, **POO** y **
 
 Sé algo de **SQL** por haber usado **MySQL Workbench** para Bases de Datos en el secundario.  
 Manejo el uso de bases de datos a través de **ORMs** (por ejemplo, en Python: **SQLAlchemy**).  
-Uso principalmente **NeonDB** como proveedor (**PostgreSQL**).
+Usé principalmente **NeonDB** como proveedor (**PostgreSQL**).
 
 En **Aprendiendo Con Personajes** también aprendí un poco sobre tecnologías como **Docker**, **Kafka**, **MongoDB**, **MinIO**, **RVC**, entre otras menos relevantes, además del uso de **microservicios** como infraestructura del proyecto.
 

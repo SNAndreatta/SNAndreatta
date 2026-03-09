@@ -12,7 +12,7 @@ A partir de **2026** comienzo a estudiar **Ciencias de la Computación** en la *
 ## Perfil
 
 Mi principal lenguaje de programación es Python.
-Estoy familiarizado con la estructura de proyectos escalables con **FastAPI**, testing integrado con **PyTest** o **Unittest**, gestión de bases de datos y lógica de negocio con **SQLAlchemy**, resolución de dependencias y gestión de librerías con **Poetry**, y contenedorización de proyectos de Python con **Docker**.
+Estoy familiarizado con la estructura de proyectos de código escalable con **FastAPI**, testing integrado con **PyTest** o **Unittest**, gestión de bases de datos y lógica de negocio con **SQLAlchemy**, resolución de dependencias y gestión de librerías con **Poetry**, y contenedorización de proyectos de Python con **Docker**.
 
 Aprendí los principios de **SOLID**, **Arquitectura de Software**, **POO** y **TDD** con una réplica en **Pygame** de *Vampire Survivors*.
 

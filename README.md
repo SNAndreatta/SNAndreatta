@@ -11,7 +11,7 @@ Estoy familiarizado con la estructura de proyectos de código escalable con **Fa
  
 ## Formación
 
-A partir de **2026** comienzo a estudiar **Ciencias de la Computación** en la **UBA**. Terminé mis estudios secundarios en el Instituto Luis A. Huergo como Técnico Profesional en Computación.
+A partir de **2026** comienzo a estudiar **Ingeniería en Informática** en la **UBA**. Terminé mis estudios secundarios en el Instituto Luis A. Huergo como Técnico Profesional en Computación.
 
 ## Experiencia
 - Pampa Business Solutions: Como parte de un equipo de trabajo de innovación en tecnologías de IA. (Marzo 2026 - Actualidad)
